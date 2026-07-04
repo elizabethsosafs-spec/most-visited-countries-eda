@@ -29,7 +29,7 @@ An inconsistency was found between them, so the analysis focuses on the tourist 
 ---
 
 ## 📊 Visualization
-(Add your chart image later)
+![Top 10 Countries Chart](Imagen2.png)
 
 ---
 
@@ -37,3 +37,11 @@ An inconsistency was found between them, so the analysis focuses on the tourist 
 - Microsoft Excel
 - Data cleaning
 - Data visualization
+
+- ## 🧠 Conclusion
+
+This analysis shows that global tourism is concentrated in a small number of countries, mainly in Europe and North America.
+
+France ranks first in international tourist arrivals, followed by Spain and the United States.
+
+The dataset provides a useful snapshot of global tourism patterns, but it does not include time variation or reasons for travel, which limits deeper analysis.
